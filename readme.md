@@ -31,8 +31,8 @@ ionic serve
 ## Construido con 🛠️
 
 * [nodeJS](https://nodejs.org/en/) - Entorno de ejecucion Javascript
-* [angular](https://maven.apache.org/) - Framework de desarrollo
-* [ionic](https://ionicframework.com/) - Framework SDK Hibrido
+* [angular](https://angular.io/cli/) - Framework de desarrollo
+* [ionic](https://code.visualstudio.com/) - Framework SDK Hibrido
 * [visual studio code](https://rometools.github.io/rome/) - Editor de codigo
 ceso para enviarnos pull requests.
 
